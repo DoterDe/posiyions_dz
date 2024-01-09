@@ -1,0 +1,71 @@
+.a{
+    height: 600px;
+    width: 843px;
+    background-image: url(bg.png);
+    background-size: cover;
+
+}
+.b{
+    height: 304px;
+    width: 300px;
+    background-image: url(cap.png);
+    background-size: cover;
+    position: absolute;
+    top: 304px;
+    left: 180px;
+}
+.c{
+    height: 304px;
+    width: 300px;
+    background-image: url(hawkeye.png);
+    background-size: cover;
+    position: absolute;
+    top: 304px;
+    left: 432px;
+}
+.v{
+    height: 304px;
+    width: 300px;
+    background-image: url(hulk.png);
+    background-size: cover;
+    position: absolute;
+    top: 304px;
+    left: -25px;
+}
+.n{
+    height: 375px;
+    width: 393px;
+    background-image: url(ironman.png);
+    background-size: cover;
+    position: absolute;
+    top: 233px;
+    left: 250px;
+
+}
+.m{
+    height: 303px;
+    width: 276px;
+    background-image: url(thor.png);
+    background-size: cover;
+    position: absolute;
+    top: 304px;
+    left: 602px;
+}
+.q{
+    
+    height: 304px;
+    width: 300px;
+    background-image: url(widow.png);
+    background-size: cover;
+    position: absolute;
+    top: 304px;
+    left: 50px;
+    
+}
+.w{
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    position: absolute;
+    top: 100px;
+    left: 200px;
+    font-size: 100px;
+}
